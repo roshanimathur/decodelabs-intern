@@ -62,3 +62,39 @@ python classification_ai.py
 ## Output
 Displays the classification accuracy of the trained model.
 
+
+# Project 3: AI Recommendation Logic
+
+## Project Description
+This project implements a simple recommendation system based on user preferences. The system takes user input, matches it with predefined categories, and recommends relevant items.
+
+## Features
+- Takes user preferences as input
+- Matches preferences using simple logic
+- Recommends relevant items
+- Easy-to-understand recommendation system
+
+## Technologies Used
+- Python
+
+## How to Run
+
+```bash
+python recommendation_system.py
+```
+
+## Example
+
+Available categories:
+action, comedy, drama
+
+Enter your favorite category: action
+
+Recommended Movies:
+- Avengers
+- John Wick
+- Mad Max
+
+## Output
+Displays recommended items based on the user's selected category.
+
