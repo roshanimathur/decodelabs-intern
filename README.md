@@ -33,3 +33,32 @@ Bot: I can answer simple predefined questions.
 User: bye
 
 Bot: Goodbye!
+
+
+
+# Project 2: Data Classification Using AI
+
+## Project Description
+This project demonstrates supervised learning using a classification algorithm. The Iris dataset is used to train and test a machine learning model.
+
+## Features
+- Loads a dataset
+- Splits data into training and testing sets
+- Trains a classification model
+- Predicts class labels
+- Displays model accuracy
+
+## Technologies Used
+- Python
+- Scikit-learn
+
+## How to Run
+
+```bash
+pip install scikit-learn
+python classification_ai.py
+```
+
+## Output
+Displays the classification accuracy of the trained model.
+
